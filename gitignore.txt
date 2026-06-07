@@ -1,0 +1,10 @@
+# Environments
+venv/
+.env
+
+# Python caches
+__pycache__/
+*.pyc
+
+# Manim output folders (stops giant video files from bloating your GitHub)
+media/
